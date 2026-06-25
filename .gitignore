@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# IDE files
+.idea/
+.vscode/
+
+# Node
+node_modules/
+dist/
+build/
+
+# Java / Maven
+target/
+*.class
+*.log
+.mvn/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Env
+.env
